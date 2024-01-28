@@ -20,7 +20,7 @@ I have trained the model for 224*224 image size,So i have to resize the corpped 
 # Image recognision
 After getting the data freom the webcam it is feeded for the model and then model identifies the class which it is belong the most then it returns the class name and the confidence score.
 
-# Changing the repo according to youur Will
+# Changing the repo according to your Will
 Put your trained model and the labels files in the cloned folder after deleting the earlier(my model and the labels file)files.
 
 # How to run the code
